@@ -1,0 +1,286 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    /*font-family: 'Inter', sans-serif;*/
+    font-family: 'Quicksand', sans-serif;
+}
+
+.menu {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.news_all {
+    margin: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.content {
+    margin: 0 auto;
+}
+
+#cactus {
+    margin: 50px auto 0 auto;
+    display: block;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.m_button {
+    margin: 0 20px;
+    color: #9193a2;
+}
+
+h1 {
+    text-align: center;
+    color: #5931aa;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: left;
+    color: #43159e;
+}
+
+.text {
+    width: 810px;
+    display: block;
+    margin: 0 auto;
+    color: #6E7381;
+    font-size: 20px;
+}
+
+#women1 {
+    width: 808px;
+    margin: 0 auto;
+    border-radius: 5px;
+    
+}
+
+#cactus2 {
+    width: 395px;
+    height: 465px;
+    border-radius: 3px;
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+    
+}
+
+.news {
+    display: inline;
+    background: #4746DA;
+    color: white;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.date {
+    display: inline;
+    color: #AEB1B9;
+}
+
+.text_cactus {
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+}
+
+.avtor {
+    margin: 100px 0;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+#ava {
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.avtor_name {
+    font-weight: bold;
+    color: black;
+    display: inline-block;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+
+.avtor_activity {
+    font-weight: normal;
+    color: #6E7381;
+    font-size: 14px;
+}
+
+
+.hr {
+    padding: 0;
+
+}
+
+.text5 {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    color: #6E7381;
+    font-size: 20px;
+    width: 650px;
+}
+
+#nozh {
+
+    width: 300px;
+    height: 200px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    display: inline-block;
+    position: absolute;
+    object-fit:cover;
+
+}
+
+.news_img {
+    border-radius: 13px;
+    background-color: rgb(234 238 241);
+    width: 300px;
+    height: 400px;
+    position: relative;
+    left: 100px;
+    display: inline-block;
+
+}
+
+.news_img2 {
+    border-radius: 13px;
+    background-color: rgb(234 238 241);
+    width: 300px;
+    height: 400px;
+    position: relative;
+    left: 150px;
+    display: inline-block;
+
+}
+
+
+.news_img3 {
+    border-radius: 13px;
+    background-color: rgb(234 238 241);
+    width: 300px;
+    height: 400px;
+    position: relative;
+    left: 350px;
+    display: inline-block;
+
+}
+
+
+
+.f3 {
+    
+    margin: auto;
+    width: 80%;
+    height: 400px;
+    margin-left: 350px;
+    margin-right: auto;
+    margin-top: 50px;
+    
+
+
+
+}
+.PodF{
+    
+    position: absolute;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    
+    
+    bottom: 50px;
+    left: 20px;
+    right: 20px;
+    font-weight: bolder;
+    
+    
+
+
+}
+h3 {
+   
+    color: #000000;
+}
+.Knopka {
+    display: inline;
+    position: relative;
+    background: #4746DA;
+    color: white;
+    padding: 10px;
+    margin-right: 165px;
+    bottom: 20px;
+}
+.TextF1 {
+    text-align: left;
+    font-size: 20px;
+
+
+
+
+
+}
+
+#j1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    display: inline-block;
+    position: relative;
+    bottom: -65px;
+    left: -50px;
+    
+}
+.james_name {
+    font-weight: bold;
+    color: #9193a2;
+    display: inline-block;
+    position: relative;
+    bottom: -40px;
+    left: -25px;
+}
+.j_activity{
+    position: relative;
+    bottom: -40px;
+    color: #9193a2;
+    font-size: 20px;
+}
+.Knopka2 {
+    display: inline;
+    position: relative;
+    background: #02ff4e;
+    color: white;
+    padding: 10px;
+    margin-right: 165px;
+    bottom: 20px;
+}
+.Knopka3 {
+    display: inline;
+    position: relative;
+    background: #f10404;
+    color: white;
+    padding: 10px;
+    margin-right: 165px;
+    bottom: 20px;
+}
+.reg{
+    background-color: #1111df;
+    margin: 0;
+    width: auto;
+}
