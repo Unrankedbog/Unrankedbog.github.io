@@ -1,0 +1,61 @@
+nav{
+    
+    color: black; 
+    padding: 1rem 1.5rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+
+    padding: 20px; 
+}
+.menu_link{
+    background: rgb(212, 99, 99); 
+    color: black; 
+    padding: 1rem 1.5rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+    border: 2px solid rgb(182, 11, 11); 
+    padding: 20px; 
+ 
+
+ 
+}
+
+body{
+	background: url('..//Img/NNe.jpg');
+    margin: 0;
+    padding: 50px;
+    background-attachment: fixed;
+   
+    
+   
+}
+.content {
+	background: #fff;
+    width: 850px;
+    margin:0 auto;
+    padding: 10px	60px;
+    border-radius: 10px;
+   
+  
+}
+.poster{
+	width: 500px;
+    border-radius: 10px;
+
+}
+.s{
+    display: inline-block; 
+    background: rgb(212, 99, 99); 
+    color: black; 
+    padding: 1rem 1.5rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+    border: 2px solid rgb(182, 11, 11); 
+    box-shadow: 0 0 10px 4px rgb(207, 13, 13);
+    
+    
+}
+
+
+    
+
